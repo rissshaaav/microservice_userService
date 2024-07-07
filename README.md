@@ -33,6 +33,15 @@ This repository contains the User Service for a social media backend system. The
    git clone <your-repo-url>
    cd userService
 
+### Environment Variables
+
+Create a `.env` file in the root directory and add the following variables:
+
+```bash
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/social_media
+JWT_SECRET=your_jwt_secret
+```
 
 ## API Endpoints
 
