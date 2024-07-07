@@ -8,8 +8,6 @@ This repository contains the User Service for a social media backend system. The
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Environment Variables](#environment-variables)
-- [Running the Service](#running-the-service)
-- [Running Tests](#running-tests)
 - [API Endpoints](#api-endpoints)
   - [User Registration](#user-registration)
   - [User Login](#user-login)
@@ -17,7 +15,7 @@ This repository contains the User Service for a social media backend system. The
   - [Update User Profile](#update-user-profile)
   - [Reset Password](#reset-password)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -32,6 +30,9 @@ This repository contains the User Service for a social media backend system. The
    ```bash
    git clone <your-repo-url>
    cd userService
+2. **Install Dependencies:**
+   ```bash
+   npm install
 
 ### Environment Variables
 
