@@ -1,0 +1,23 @@
+{
+  "name": "userservice",
+  "version": "1.0.0",
+  "description": "handles registration, login and profile management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rissshaaav/microservice_userService.git"
+  },
+  "keywords": [
+    "microservice",
+    "userservice"
+  ],
+  "author": "Rishav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rissshaaav/microservice_userService/issues"
+  },
+  "homepage": "https://github.com/rissshaaav/microservice_userService#readme"
+}
