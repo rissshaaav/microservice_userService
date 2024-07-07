@@ -94,3 +94,21 @@ This repository contains the User Service for a social media backend system. The
 - **Response:**
   - `200 OK` on success with a message indicating password reset
   - `404 Not Found` on non-existent email
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Make your changes.
+4. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+5. Push to the branch:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+6. Open a pull request.
