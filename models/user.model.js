@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
-const { generateHash } = require("../utils/hash.utils");
-const { compareHash } = require("../utils/hash.utils");
+const { generateHash, compareHash } = require("../utils/hash.utils");
 
 // define user schema
 const userSchema = new mongoose.Schema({
